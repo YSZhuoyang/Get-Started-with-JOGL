@@ -3,4 +3,9 @@
 **  author: YS
 */
 
-Sample code of JOGL ported from OpenGL 4.3+ in blue book.
+These are all sample code achieved in my first time getting in touch with OpenGL. And they are ported from the blue book 6th edition.
+
+I choose JOGL + Java because I personally believe that learning opengl with C/C++ is a bit tough since I'm not familiar with windows
+programming like creating GUI that kind of thing. And with Java, it's a kind of easy to overcome these problems. It's fast and convenient to create frames or panals where fascinating 3D graphics are displayed.
+
+I didn't upload much of the sample code, since I put the rest of code of blue book into my project directly, so -_- pity. But I believe these are at least helpful for new beginners like me to get started and love with opengl programming.
